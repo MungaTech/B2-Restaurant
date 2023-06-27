@@ -21,5 +21,4 @@ Admin Login
 
 Admin Dashboard
 ![Admin dashboard](https://github.com/MungaTech/B2-Restaurant/assets/111287651/8431f712-09cc-4cd0-a262-2f205516c52e)
-ard
 
